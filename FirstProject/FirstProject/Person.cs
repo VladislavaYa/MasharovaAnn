@@ -8,6 +8,7 @@ namespace FirstProject
 	{
 		public string Name { get; set; }
 		public string Surname { get; set; }
+		cvb
 		public int Age
 		{
 			get

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anna_Masharova\\source\\repos\\FirstProject\\FirstProject\\FirstProject.csproj",
+      "projectUniqueName": "C:\\Users\\Anna_Masharova\\Desktop\\FirstProject\\MasharovaAnn\\FirstProject\\FirstProject\\FirstProject.csproj",
       "projectName": "FirstProject",
-      "projectPath": "C:\\Users\\Anna_Masharova\\source\\repos\\FirstProject\\FirstProject\\FirstProject.csproj",
+      "projectPath": "C:\\Users\\Anna_Masharova\\Desktop\\FirstProject\\MasharovaAnn\\FirstProject\\FirstProject\\FirstProject.csproj",
       "packagesPath": "C:\\Users\\Anna_Masharova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anna_Masharova\\source\\repos\\FirstProject\\FirstProject\\obj\\",
+      "outputPath": "C:\\Users\\Anna_Masharova\\Desktop\\FirstProject\\MasharovaAnn\\FirstProject\\FirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anna_Masharova\\AppData\\Roaming\\NuGet\\NuGet.Config",
